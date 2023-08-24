@@ -5,7 +5,7 @@ public class AboutMeTest {
 	
 	public static void main(String[] args) {
 		AboutMe tania = new AboutMe();
-		tania.myName= "Tania";
+		tania.myName= "Tania";     
 		tania.myAge= 35;
 		tania.myGender= 'F';
 		tania.myPhone= 1234567;
