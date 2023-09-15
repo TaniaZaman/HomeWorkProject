@@ -2,7 +2,7 @@ package hw4JavaVariables;
 
 public class AboutMe {
 	
-	String myName; // variable declared;
+	String myName; // variables declared;
 	byte myAge;
 	Short mySalary;
 	int myPhone;
@@ -12,11 +12,11 @@ public class AboutMe {
 	char myGender;
 	boolean fullTimeStudent;
 	
-	AboutMe(){
+	AboutMe(){//THe Constructor is declared.
 		System.out.println("This is all about us: ");
 	}
 	
-	public void aboutMe() {
+	public void aboutMe() {//method is implemented here.
 		System.out.println("My Name: "+ myName +"\nMy Age: "+ myAge+ 
 				"\nMy Gender: "+myGender +"\nMy Phone: "+ myPhone+
 				"\nMy Salary: "+ mySalary+ "\nMy Bank Balance Amount: "+ myBankBalance+

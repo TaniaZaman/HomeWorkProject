@@ -14,7 +14,7 @@ package hw2JavaBasic;
  */
 public class MyCar {
 	public static void main(String[] args) {
-		System.out.println(" My name is  \"Tania\"." + " and I love to drive," + " My car info is below:");
+		System.out.println(" My name is \"Tania\"." + " and I love to drive," + " My car info is below:");
 		System.out.print(" color: Gray,");
 		System.out.print("\tmodel: Jeep Cherokee,");
 		System.out.print(" \n year: 2014,");
