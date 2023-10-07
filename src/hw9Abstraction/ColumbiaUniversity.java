@@ -6,6 +6,7 @@ public class ColumbiaUniversity {
 	//abstract Method can't be declared in regular class.
 	
 	public ColumbiaUniversity(){
+		System.out.println("This Constructor is from ColumbiaUniversity");
 		
 	}
 	
